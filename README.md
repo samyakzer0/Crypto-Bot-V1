@@ -1,1 +1,1 @@
-# Crypto-Bot-V1
+Put your bot token in .env file and run node bot.js

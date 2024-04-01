@@ -1,0 +1,17 @@
+{
+  "name": "crypto-bot",
+  "version": "1.0.0",
+  "description": ".",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samyak Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "convert-currency_crypto": "^1.0.1",
+    "crypto-price-fetcher": "^1.0.2",
+    "dotenv": "^16.4.5",
+    "node-telegram-bot-api": "^0.65.1"
+  }
+}
